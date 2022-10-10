@@ -19,6 +19,7 @@ From there, I was able to refine my analysis by grouping the campaigns based on 
 <img width="407" alt="Outcomes_vs_Launch_1" src="https://user-images.githubusercontent.com/114126935/194795576-b5ca5d7f-c4d0-4b61-8077-3e41c5a9b624.png">
 
 The following pivot table shows the same data but limited to the year 2015.
+
 <img width="412" alt="Outcomes_vs_Launch_2015" src="https://user-images.githubusercontent.com/114126935/194795627-76050315-38b3-4e32-9834-b67a4fe9ddf2.png">
 
 ### Analysis of Outcomes Based on Goals
