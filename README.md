@@ -16,6 +16,7 @@ This analysis is based on data collected from over 4,000 Kickstarter campaigns l
 #### Timing
 The launch and end dates of each campaign were originally provided in Unix timestamps. To convert these timestamps to human-readable data, I used,`[unix timestamp]/60/60/24 + DATE(1970,1,1)`.
 From there, I was able to refine my analysis by grouping the campaigns based on the year and month in which they were started. The pivot table below is based off of this data and displays the results of campaigns in the theater parent category based on the month in which they were launched.
+
 <img width="407" alt="Outcomes_vs_Launch_1" src="https://user-images.githubusercontent.com/114126935/194795576-b5ca5d7f-c4d0-4b61-8077-3e41c5a9b624.png">
 
 The following pivot table shows the same data but limited to the year 2015.
