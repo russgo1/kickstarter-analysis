@@ -32,7 +32,7 @@ The SUM function and basic division were used from there to determine percentage
 
 ### Challenges and Difficulties Encountered
 #### Months in the Pivot Table
-It was a challenge to get the pivot table in the Theater Outcomes by Launch Date sheet (pictured above) to display data based on month for all years at the same time. I tried different methods of filtering and formatting the table to no avail. Eventually I figured out that I needed to remove the “years” and “quarters” fields from the “Rows” panel, leaving only “Date Created Conversion.” Excel took care of it from there.
+It was a challenge to get the pivot table in the Theater Outcomes by Launch Date sheet to display data based on month for all years at the same time. I tried different methods of filtering and formatting the table to no avail. Eventually I figured out that I needed to remove the “years” and “quarters” fields from the “Rows” panel, leaving only “Date Created Conversion.” Excel took care of it from there.
 
 #### Outcomes Based on Goals for Plays Only
 At first I did not filter this date based on the plays subcategory. Going back to fix mistakes is often a challenge, especially once a lot of work has been done already. I first tried to filter the “KickStarter” sheet from which the data is derived. That didn’t work. I realized that the my best option was probably to write in a new field for the COUNTIFS function in my new sheet, even if that meant extra busy work. By adding `KickStarter!$R:$R,”plays”` to each function, I was able to filter successfully.
