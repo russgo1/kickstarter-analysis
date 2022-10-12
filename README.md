@@ -55,7 +55,8 @@ In the above chart the green line represents the percentage of successful campai
 #### Where to set the goal
 Based on this analysis, two ranges appear as good targets for Louise’s goal. The first is between $1 and about $15,000. Louise should be aware that in this range, the closer her goal is to $15,000, the lower her chances of success become, based on our dataset. She should increase her goal cautiously. If Louise wants a goal above $15,000, she should consider jumping to a goal as low as $35,000 but not above $44,999. In this range, there is again a historically higher percentage of successful campaigns than failed ones. Above $45,000 is the danger zone where campaigns historically are much more likely to fail than to succeed.
 
-## Limitations
+## Limitations of the Dataset
+This dataset is limited in that it provides little to no insight about the level of engagement with or size of the team managing individual campaigns. Such information might include, the number of people working on the project, money spent on advertising, time spent on the KickStarter page, number of photos or videos used to aid the project, and any number of other things that may indicate how much work went into the campaign itself. Such factors may be crucial to a successful campaign.
 
 ## Other Tables and Graphs
 A pie chart may help to visualize the importance of being a “spotlight” campaign. It could be done with only four categories by grouping all live, canceled, and failed campaigns into one “not successful” category. 
